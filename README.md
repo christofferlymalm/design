@@ -1,9 +1,11 @@
-About this website
+About this project
 ==================
 
-On this website I create style themes in LESS and CSS and publish reports and blogs. You can see this website on GitHub: https://github.com/Christoffer2019/design
+A website based on my university teacher's PHP framework. Languages used in this project are PHP, CSS, LESS, Markdown, HTML, etc. The purpose of this project was to learn different design patterns and design elements with focus on UX. The visual design was made in LESS modules and then compiled to a single CSS file. On this website, you can find reports that analyze different design concepts.
 
-About the course Design
-=======================
+This project on GitHub: https://github.com/christofferlymalm/design
 
-The course Design (7.5 credits) includes CSS, LESS, framework in PHP, search engine optimization, and more. I am studying this course as part of the programme Web programming (120 credits) at Blekinge Technical University.
+About the university course Technical Web Design and Usability
+==============================================================
+
+This project was created in the course Technical Web Design and Usability (7.5 credits), which is a part of the programme Web Programming (120 credits) at Blekinge Institute of Technology.
